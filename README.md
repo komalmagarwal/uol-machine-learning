@@ -12,9 +12,9 @@ including supervised and unsupervised approaches.
 
 ## Models compared
 
-- Logistic Regression — baseline linear classifier (accuracy: 74%)
-- Random Forest — ensemble method, best performer (accuracy: 81.6%, F1: 0.825)
-- Neural Network (MLP Classifier) — deep model, competitive but below Random Forest (accuracy: 78.7%, F1: 0.80)
+- Logistic Regression: baseline linear classifier (accuracy: 74%)
+- Random Forest: ensemble method, best performer (accuracy: 81.6%, F1: 0.825)
+- Neural Network (MLP Classifier): deep model, competitive but below Random Forest (accuracy: 78.7%, F1: 0.80)
   
 ## Approach
 
