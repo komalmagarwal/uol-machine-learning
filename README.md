@@ -1,5 +1,3 @@
-# uol-machine-learning
-
 # Machine Learning — Wine Quality Classification
 
 Final coursework for the Machine Learning module (University of London 
