@@ -1,4 +1,4 @@
-# Machine Learning — Wine Quality Classification
+# Machine Learning: Wine Quality Classification
 
 Final coursework for the Machine Learning module (University of London 
 Data Science & AI programme).
